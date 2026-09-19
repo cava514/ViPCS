@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp45\\\u0412\u0418\u041F\u041A\u0421\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A28868E5-D286-46D7-B0C5-2B1D560B55AC}|WebApplication\\WebApplication.csproj|c:\\temp\\ispp45\\\u0432\u0438\u043F\u043A\u0441\\webapplication\\webapplication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A28868E5-D286-46D7-B0C5-2B1D560B55AC}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Temp\\ispp45\\\u0412\u0418\u041F\u041A\u0421\\WebApplication\\WebApplication\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApplication\\Dockerfile",
+              "ToolTip": "C:\\Temp\\ispp45\\\u0412\u0418\u041F\u041A\u0421\\WebApplication\\WebApplication\\Dockerfile",
+              "RelativeToolTip": "WebApplication\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-19T06:13:55.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
